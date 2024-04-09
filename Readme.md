@@ -9,7 +9,7 @@ Le but était de réaliser un shell complètement fonctionnel, avec la gestion d
 ![](https://github.com/Noa-Trachez/42sh/blob/main/images/demo.gif)
 
 <div style="display: flex; flex-wrap: wrap">
-    <img src="/images/default.png" width=1200 height=300 />
+    <img src="/images/default.png" width=1600 height=300 />
 </div>
 
 ## Utiliser le shell
